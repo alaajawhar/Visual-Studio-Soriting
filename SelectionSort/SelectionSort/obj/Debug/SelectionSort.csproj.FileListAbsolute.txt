@@ -1,0 +1,6 @@
+/Users/mac/Projects/SelectionSort/SelectionSort/bin/Debug/SelectionSort.exe
+/Users/mac/Projects/SelectionSort/SelectionSort/bin/Debug/SelectionSort.pdb
+/Users/mac/Projects/SelectionSort/SelectionSort/obj/Debug/SelectionSort.csprojAssemblyReference.cache
+/Users/mac/Projects/SelectionSort/SelectionSort/obj/Debug/SelectionSort.csproj.CoreCompileInputs.cache
+/Users/mac/Projects/SelectionSort/SelectionSort/obj/Debug/SelectionSort.exe
+/Users/mac/Projects/SelectionSort/SelectionSort/obj/Debug/SelectionSort.pdb

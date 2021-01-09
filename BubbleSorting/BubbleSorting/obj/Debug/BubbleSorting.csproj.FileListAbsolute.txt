@@ -1,0 +1,6 @@
+/Users/mac/Projects/BubbleSorting/BubbleSorting/bin/Debug/BubbleSorting.exe
+/Users/mac/Projects/BubbleSorting/BubbleSorting/bin/Debug/BubbleSorting.pdb
+/Users/mac/Projects/BubbleSorting/BubbleSorting/obj/Debug/BubbleSorting.csprojAssemblyReference.cache
+/Users/mac/Projects/BubbleSorting/BubbleSorting/obj/Debug/BubbleSorting.csproj.CoreCompileInputs.cache
+/Users/mac/Projects/BubbleSorting/BubbleSorting/obj/Debug/BubbleSorting.exe
+/Users/mac/Projects/BubbleSorting/BubbleSorting/obj/Debug/BubbleSorting.pdb

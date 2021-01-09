@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{3E404889-E49F-4A04-B768-6A91B1A9DB9A}|Default">
+  <MonoDevelop.Ide.ItemProperties.BubbleSorting FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BubbleSorting/Program.cs">
+    <Files>
+      <File FileName="BubbleSorting/Program.cs" Line="5" Column="16" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BubbleSorting" expanded="True">
+            <Node name="BubbleSorting" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
